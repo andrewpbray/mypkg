@@ -1,0 +1,9 @@
+Package: mypkg
+Type: Package
+Title: Stuff
+Version: 1.0
+Date: 2025-11-10
+Author: Andrew Bray
+Maintainer: Andrew bray <andrewbray@berkley.edu>
+Description: cool stuff
+License: MIT
