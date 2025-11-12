@@ -7,3 +7,6 @@ Author: Andrew Bray
 Maintainer: Andrew bray <andrewbray@berkley.edu>
 Description: cool stuff
 License: MIT
+Depends: 
+    R (>= 3.5)
+LazyData: true
